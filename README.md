@@ -7,7 +7,7 @@
 
 Aqui --> [Git](./GIT.md) 
 <br/>
-Con los comandos en git nos ayudan a trabajar en equipo de manera mas sencilla y optima 
+Los comandos en git nos ayudan a trabajar en equipo de manera mas sencilla y optima 
 
 <br/><br/>
 
@@ -15,6 +15,5 @@ Con los comandos en git nos ayudan a trabajar en equipo de manera mas sencilla y
 <br/>
 
 Aqui puede ver la informacion [Linux](./LINUX.md) 
-
 <br/>
 Los comandos en linux son utilizados para darnos informacion de la rama actual
