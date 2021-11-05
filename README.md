@@ -5,16 +5,16 @@
 ### Alguno de los comando utilizados en Git los podemos ver en el siguiente link
 <br/>
 
-Aqui [Linux](./LINUX.md) 
+Aqui --> [Git](./GIT.md) 
 <br/>
-los comandos en git son utilizados
+Con los comandos en git nos ayudan a trabajar en equipo de manera mas sencilla y optima 
 
 <br/><br/>
 
 ### Alguno de los comando utilizados en Linux los podemos ver en el siguiente link
 <br/>
 
-Aqui puede ver la informacion [Git](./GIT.md) 
+Aqui puede ver la informacion [Linux](./LINUX.md) 
 
 <br/>
-los comandos en linux son utilizados para darnos informacion de la rama actual
+Los comandos en linux son utilizados para darnos informacion de la rama actual
